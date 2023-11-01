@@ -37,7 +37,7 @@ class ProfileScreen extends StatelessWidget {
               margin: EdgeInsets.symmetric(horizontal: 20),
               child: ListTile(
                 leading: Icon(Icons.email),
-                title: Text('johndoe@example.com'),
+                title: Text('arshad@example.com'),
               ),
             ),
             Card(
